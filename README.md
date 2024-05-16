@@ -1,3 +1,2 @@
 # corinthians
-site informativo sobre o corinthians.
-lais
+Site informativo sobre o Corinthians.
